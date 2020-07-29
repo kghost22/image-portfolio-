@@ -1,0 +1,13 @@
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+h3{
+    border-bottom: 1px solid #f1f1f1;
+    width: 30%;
+    margin: 1.66%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
